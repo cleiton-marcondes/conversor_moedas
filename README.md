@@ -20,5 +20,5 @@ Este projeto é um conversor de moedas que utiliza a [Frankfurter API](https://w
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone https://github.com/cleiton-marcondes/conversor-moedas.git
 cd conversor-moedas
